@@ -10,6 +10,7 @@ Educational institutions often struggle with managing student data using manual 
    2. Allow for quick retrieval of student lists.
       
    3. Allows easy updates like changing student grade or removal of student data.
+
 This Python program interfaces with a local SQLite database file to perform these CRUD (Create, Read, Update, Delete) operations.
 
 ## Code Structure & Explanation
